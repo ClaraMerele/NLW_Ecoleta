@@ -24,16 +24,16 @@
 Aplicação feita na Next Level Week 1.0 - curso Starter da [@Rocketseat](https://github.com/Rocketseat), nos dias 1 a 5 de Junho de 2020.
 
 **Tecnologias Front-end**
-- Linguagem: Javascript;
+- Javascript;
 - HTML;
-- CSS. 
+- CSS.
 
 **Tecnologias Back-end**
 - Linguagem: Javascript;
 - Node.js; 
 - Git Bash; 
 - Banco de dados: SQL;
-- SQLite3.
+- SQLite3. 
 
 **API's Utilizadas**
 - [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)
