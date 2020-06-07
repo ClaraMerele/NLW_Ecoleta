@@ -35,4 +35,11 @@ Aplicação feita na Next Level Week 1.0 - curso Starter da [@Rocketseat](https:
 - Banco de dados: SQL;
 - SQLite3.
 
+**API's Utilizadas**
+- [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)
+- [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
+
+
+
+
 
